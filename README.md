@@ -45,12 +45,14 @@ python Audio-to-Video.py
 4. 点击"开始导出"按钮
 5. 等待处理完成，生成的视频将保存在当前目录
 
+
 ## 技术细节
 
 - **音频处理**：使用 `soundfile` 库读取音频数据
 - **频谱计算**：基于 FFT（快速傅里叶变换）算法
 - **视频编码**：使用 FFmpeg 进行高效视频编码
 - **GUI框架**：基于 PyQt6 构建用户界面
+
 
 ## 常见问题
 
@@ -64,6 +66,7 @@ python Audio-to-Video.py
 - 启用频谱平滑选项
 - 使用高质量源音频文件
 
+
 ## 贡献指南
 
 欢迎贡献代码！请遵循以下步骤：
@@ -73,15 +76,7 @@ python Audio-to-Video.py
 4. 推送到分支 (`git push origin feature/your-feature`)
 5. 创建 Pull Request
 
-## 许可证
-本项目采用 [MIT 许可证](LICENSE) - 详情请见 LICENSE 文件。
 
-## 文件结构建议
-```
-AudioSpectrumVisualizer/
-├── Audio-to-Video.py       # 主程序
-├── README.md               # 项目文档
-├── requirements.txt        # Python依赖列表
-├── LICENSE                 # 许可证文件
-└── screenshot.png          # 软件界面截图
-```
+## 许可证
+
+本项目采用 [MIT 许可证](LICENSE) - 详情请见 LICENSE 文件。
