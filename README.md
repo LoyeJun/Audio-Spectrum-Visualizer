@@ -5,7 +5,7 @@
 
 将音频文件转换为带有动态频谱可视化的视频文件。支持多种音频格式，可自定义频谱参数和视频分辨率。
 
-![软件界面截图](https://github.com/user-attachments/assets/80a396ff-f4c7-47a1-bbc3-3f2eca65f6c4)
+![软件界面截图](https://github.com/LoyeJun/Audio-Spectrum-Visualizer/blob/main/PixPin_2025-08-09_10-40-18.png)
 
 
 ## 功能特点
